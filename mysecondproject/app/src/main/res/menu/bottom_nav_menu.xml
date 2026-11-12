@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/feedFragment"
+        android:icon="@drawable/twotone_1k_24"
+        android:title="@string/Feed" />
+
+    <item
+        android:id="@+id/favouritesFragment"
+        android:icon="@drawable/outline_2k_24"
+        android:title="@string/Favourites" />
+
+    <item
+        android:id="@+id/nav_exit"
+        android:icon="@drawable/outline_3k_24"
+        android:title="@string/exit" />
+
+</menu>
